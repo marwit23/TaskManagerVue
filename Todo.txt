@@ -1,0 +1,12 @@
+On hover cały task zamienić w buttony lub pod spodem?
+A może zrobić system folderów jak pasek zakładek i dodawać przez drag and drop
+A może dodawać atrybuty przez drag and drop
+Główna lista to lista kontekstów, a rozwija się po kliknięciu?
+Kontekst pokazuje ile tasków z jakim priorytetem
+A może lista kontekstów po lewej, a lista tasków po prawej? Tak samo daty, priorytety i in?
+Filter by: category, date, priority, status, data dodania
+Add context / group. Grupowanie już dodanych.
+Buttony w navbarze płaskie i długie
+Zagnieżdżone taski. Każdy task ma subtaski i supertask.
+Menu górne i boczne fixed
+Actions w card footer
